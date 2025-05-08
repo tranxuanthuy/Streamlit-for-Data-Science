@@ -11,6 +11,7 @@ st.subheader('An App by Tyler Richards')
 st.write(('This app simulates a thousand coin flips using the chance of heads input below,'  
 'and then samples with replacement from that population and plots the histogram of the' 
 ' means of the samples, in order to illustrate the Central Limit Theorem!')) 
+st.markdown('---')
 
  
 
